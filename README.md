@@ -1,5 +1,7 @@
 # The Constant Expression
 
+# Daniel Obare Nyakundi
+
 ## Learning Goals
 
 - Identify the _constant expression_
